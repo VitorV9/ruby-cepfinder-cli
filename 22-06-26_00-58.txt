@@ -1,0 +1,5 @@
+--Localização com base no CEP---
+O logradouro é: 
+O bairro é: 
+A localidade é: Salto do Jacuí
+A uf(estado) é: RS

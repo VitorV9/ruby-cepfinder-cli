@@ -1,0 +1,5 @@
+--Localização com base no CEP---
+O logradouro é: Praça da Sé
+O bairro é: Sé
+A localidade é: São Paulo
+A uf(estado) é: SP
