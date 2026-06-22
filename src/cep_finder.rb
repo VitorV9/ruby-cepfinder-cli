@@ -1,3 +1,7 @@
+require 'uri'
+require 'net/http'
+require 'json'
+
 class CepFinder
   def initialize(cep)
     @cep = cep
