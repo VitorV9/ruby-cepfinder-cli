@@ -14,3 +14,5 @@ resultado = buscador.buscaendereco
 
 puts ""
 puts resultado
+
+buscador.salvaendereco
